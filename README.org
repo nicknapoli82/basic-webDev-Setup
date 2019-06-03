@@ -25,6 +25,13 @@ Starts webpack -w in development mode
 *** npm run build
 Builds everything for production
 
-** If you have any problems let me know or submit an issue on github
+** Directories
+*** src
+A place for all your code
+*** public
+Where *index.html* and *styles.css* lives. Change these to your liking.
+This is where the root of the page lives effectively. Using npm build will make
+main.js here.
 
+** If you have any problems let me know or submit an issue on github
 *Hope you enjoy*
